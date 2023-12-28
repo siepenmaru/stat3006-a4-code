@@ -9,6 +9,7 @@ The final written report itself can be found in [this repository](https://github
 
 [Aaroe2010_Gene_expression_profiling_blood_detection_breast_cancer.pdf](Aaroe2010_Gene_expression_profiling_blood_detection_breast_cancer.pdf): Primary reference study for the report
 
+[data](data): Datasets provided by the course, sourced from Aaroe et al. (2010)
 
 [A4.ipynb](A4.ipynb): Jupyter Notebook used to analyse the data for the report
 
